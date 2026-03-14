@@ -1,42 +1,47 @@
 ﻿using BLL.Entities;
-using BLL.EntityLists;
 using BLL.EntityManagers;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace PubsUI
 {
     public partial class frmPrdDetailedView : Form
     {
-        public frmPrdDetailedView()
+        private readonly Title _title;
+        public bool Saved { get; private set; } = false;
+
+        public frmPrdDetailedView(Title title)
         {
             InitializeComponent();
+            _title = title;
         }
-        BindingNavigator TitleBindingNavigator;
+
+        public frmPrdDetailedView()
+        {
+        }
+
         private void frmPrdDetailedView_Load(object sender, EventArgs e)
         {
-            TitleList Titles = TitleManager.SelectALLTitles();
-            prdBindingSource = new(Titles, "");
+            lblProductID.Text = _title.TitleID;
+            txtProductName.Text = _title.TitleName;
+            numUnitPrice.Value = _title.Price ?? 0;
+        }
 
-            prdBindingSource.AddingNew += (sender, e) => e.NewObject = new Title() { TitleName = "",  State = EntitySate.Added, Price = 10 };
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            bool result = TitleManager.UpdateTitlePrice(_title.TitleID, numUnitPrice.Value);
+            if (!result)
+            {
+                MessageBox.Show("Failed to update price.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            Saved = true;
+            this.Close();
+        }
 
-
-            TitleBindingNavigator = new BindingNavigator(prdBindingSource);
-
-            TitleBindingNavigator.Dock = DockStyle.Top;
-            this.Controls.Add(TitleBindingNavigator);
-
-            lblProductID.DataBindings.Add("Text", prdBindingSource, "TitleID");
-            txtProductName.DataBindings.Add("Text", prdBindingSource, "TitleName");
-            numUnitPrice.DataBindings.Add("Value", prdBindingSource, "Price");
-
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

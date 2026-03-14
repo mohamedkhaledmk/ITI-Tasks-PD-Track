@@ -44,6 +44,43 @@ namespace BLL.EntityManagers
             return false;
         }
 
+        public static bool DeleteTitle(string TitleID)
+        {
+            try
+            {
+                Dictionary<string, object> Parameters = new()
+                {
+                    ["@TitleID"] = TitleID
+                };
+                return Manager.ExecuteNonQuery("DeleteTitle", Parameters) > 0;
+            }
+            catch { }
+            return false;
+        }
+
+        public static bool AddTitle(string TitleID, string TitleName, string Type)
+        {
+            try
+            {
+                Dictionary<string, object> Parameters = new()
+                {
+                    ["@TitleID"] = TitleID,
+                    ["@TitleName"] = TitleName,
+                    ["@Type"] = Type,
+                    ["@PubID"] = "9999",
+                    ["@Price"] = DBNull.Value,
+                    ["@Advance"] = DBNull.Value,
+                    ["@Royalty"] = DBNull.Value,
+                    ["@YTD_Sales"] = DBNull.Value,
+                    ["@Notes"] = DBNull.Value,
+                    ["@Pubdate"] = DateTime.Now
+                };
+                return Manager.ExecuteNonQuery("AddTitle", Parameters) > 0;
+            }
+            catch { }
+            return false;
+        }
+
         #region Mapping Functions
         internal static TitleList DataTableToTitleList(DataTable dt)
         {

@@ -25,7 +25,19 @@ namespace BLL.Entities
 		}
 		public string? Type { get; set; }
         public string? PubID { get; set; }
-		public decimal? Price { get; set; }
+		public decimal? Price
+		{
+			get;
+			set
+			{
+				if (field != value)
+				{
+					field = value;
+					if (State != EntitySate.Added)
+						this.State = EntitySate.Modified;
+				}
+			}
+		}
 		public decimal? Advance { get; set; }
 		public int? Royalty { get; set; }
         public int? YTD_Sales { get; set; }

@@ -2,87 +2,75 @@
 {
     partial class frmPrdDetailedView
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
                 components.Dispose();
-            }
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
             lblProductID = new Label();
             txtProductName = new TextBox();
             numUnitPrice = new NumericUpDown();
-            prdBindingSource = new BindingSource(components);
+            btnSave = new Button();
+            btnCancel = new Button();
             ((System.ComponentModel.ISupportInitialize)numUnitPrice).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)prdBindingSource).BeginInit();
             SuspendLayout();
-            // 
-            // lblProductID
-            // 
+
             lblProductID.AutoSize = true;
-            lblProductID.Location = new Point(41, 47);
+            lblProductID.Location = new System.Drawing.Point(41, 47);
             lblProductID.Name = "lblProductID";
-            lblProductID.Size = new Size(50, 20);
-            lblProductID.TabIndex = 0;
-            lblProductID.Text = "label1";
-            // 
-            // txtProductName
-            // 
-            txtProductName.Location = new Point(41, 88);
+            lblProductID.Text = "";
+
+            txtProductName.Location = new System.Drawing.Point(41, 88);
             txtProductName.Name = "txtProductName";
-            txtProductName.Size = new Size(125, 27);
-            txtProductName.TabIndex = 1;
-            // 
-            // numUnitPrice
-            // 
-            numUnitPrice.Location = new Point(41, 140);
-            numUnitPrice.Maximum = new decimal(new int[] { 500, 0, 0, 0 });
+            txtProductName.Size = new System.Drawing.Size(260, 27);
+            txtProductName.ReadOnly = true;
+
+            numUnitPrice.Location = new System.Drawing.Point(41, 140);
+            numUnitPrice.Maximum = new decimal(new int[] { 9999, 0, 0, 0 });
+            numUnitPrice.DecimalPlaces = 2;
             numUnitPrice.Name = "numUnitPrice";
-            numUnitPrice.Size = new Size(150, 27);
-            numUnitPrice.TabIndex = 2;
-            // 
-            // frmPrdDetailedView
-            // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            numUnitPrice.Size = new System.Drawing.Size(150, 27);
+
+            btnSave.Location = new System.Drawing.Point(41, 195);
+            btnSave.Size = new System.Drawing.Size(90, 30);
+            btnSave.Text = "Save";
+            btnSave.Click += btnSave_Click;
+
+            btnCancel.Location = new System.Drawing.Point(140, 195);
+            btnCancel.Size = new System.Drawing.Size(90, 30);
+            btnCancel.Text = "Cancel";
+            btnCancel.Click += btnCancel_Click;
+
+            AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new System.Drawing.Size(400, 260);
+            FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            MaximizeBox = false;
+            MinimizeBox = false;
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             Controls.Add(numUnitPrice);
             Controls.Add(txtProductName);
             Controls.Add(lblProductID);
+            Controls.Add(btnSave);
+            Controls.Add(btnCancel);
             Name = "frmPrdDetailedView";
-            Text = "frmPrdDetailedView";
+            Text = "Edit Title";
             Load += frmPrdDetailedView_Load;
             ((System.ComponentModel.ISupportInitialize)numUnitPrice).EndInit();
-            ((System.ComponentModel.ISupportInitialize)prdBindingSource).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
-        #endregion
-
         private Label lblProductID;
         private TextBox txtProductName;
         private NumericUpDown numUnitPrice;
-        private BindingSource prdBindingSource;
+        private Button btnSave;
+        private Button btnCancel;
     }
 }
