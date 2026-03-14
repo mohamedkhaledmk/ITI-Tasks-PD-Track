@@ -1,4 +1,4 @@
-﻿namespace D13___WinForms
+namespace D13___WinForms
 {
     partial class frmProductsDetailedView
     {
@@ -34,6 +34,7 @@
             txtProductName = new TextBox();
             btnPrev = new Button();
             btnNext = new Button();
+            btnSave = new Button();
             ((System.ComponentModel.ISupportInitialize)numUnitPrice).BeginInit();
             SuspendLayout();
             // 
@@ -57,7 +58,9 @@
             // 
             // numUnitPrice
             // 
+            numUnitPrice.DecimalPlaces = 2;
             numUnitPrice.Location = new Point(46, 139);
+            numUnitPrice.Maximum = new decimal(new int[] { 1000000, 0, 0, 0 });
             numUnitPrice.Name = "numUnitPrice";
             numUnitPrice.Size = new Size(150, 27);
             numUnitPrice.TabIndex = 2;
@@ -66,7 +69,7 @@
             // 
             txtProductName.Location = new Point(46, 84);
             txtProductName.Name = "txtProductName";
-            txtProductName.Size = new Size(125, 27);
+            txtProductName.Size = new Size(400, 27);
             txtProductName.TabIndex = 3;
             // 
             // btnPrev
@@ -89,11 +92,22 @@
             btnNext.UseVisualStyleBackColor = true;
             btnNext.Click += btnNext_Click;
             // 
+            // btnSave
+            // 
+            btnSave.Location = new Point(46, 260);
+            btnSave.Name = "btnSave";
+            btnSave.Size = new Size(150, 29);
+            btnSave.TabIndex = 6;
+            btnSave.Text = "Save Changes";
+            btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
+            // 
             // frmProductsDetailedView
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnSave);
             Controls.Add(btnNext);
             Controls.Add(btnPrev);
             Controls.Add(txtProductName);
@@ -116,5 +130,6 @@
         private TextBox txtProductName;
         private Button btnPrev;
         private Button btnNext;
+        private Button btnSave;
     }
 }

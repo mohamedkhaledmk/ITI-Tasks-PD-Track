@@ -1,4 +1,4 @@
-﻿namespace D13___WinForms
+namespace D13___WinForms
 {
     partial class frmProductsGridView
     {
@@ -34,18 +34,23 @@
             loadToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem1 = new ToolStripSeparator();
             saveToolStripMenuItem = new ToolStripMenuItem();
+            toolStrip1 = new ToolStrip();
+            btnAdd = new ToolStripButton();
+            btnEdit = new ToolStripButton();
+            btnDelete = new ToolStripButton();
             ((System.ComponentModel.ISupportInitialize)grdViewPrds).BeginInit();
             menuStrip1.SuspendLayout();
+            toolStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // grdViewPrds
             // 
             grdViewPrds.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             grdViewPrds.Dock = DockStyle.Fill;
-            grdViewPrds.Location = new Point(0, 28);
+            grdViewPrds.Location = new Point(0, 55);
             grdViewPrds.Name = "grdViewPrds";
             grdViewPrds.RowHeadersWidth = 51;
-            grdViewPrds.Size = new Size(800, 422);
+            grdViewPrds.Size = new Size(800, 395);
             grdViewPrds.TabIndex = 0;
             // 
             // menuStrip1
@@ -84,12 +89,50 @@
             saveToolStripMenuItem.Text = "Save";
             saveToolStripMenuItem.Click += saveToolStripMenuItem_Click;
             // 
+            // toolStrip1
+            // 
+            toolStrip1.ImageScalingSize = new Size(20, 20);
+            toolStrip1.Items.AddRange(new ToolStripItem[] { btnAdd, btnEdit, btnDelete });
+            toolStrip1.Location = new Point(0, 28);
+            toolStrip1.Name = "toolStrip1";
+            toolStrip1.Size = new Size(800, 27);
+            toolStrip1.TabIndex = 2;
+            toolStrip1.Text = "toolStrip1";
+            // 
+            // btnAdd
+            // 
+            btnAdd.DisplayStyle = ToolStripItemDisplayStyle.Text;
+            btnAdd.ImageTransparentColor = Color.Magenta;
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(41, 24);
+            btnAdd.Text = "Add";
+            btnAdd.Click += btnAdd_Click;
+            // 
+            // btnEdit
+            // 
+            btnEdit.DisplayStyle = ToolStripItemDisplayStyle.Text;
+            btnEdit.ImageTransparentColor = Color.Magenta;
+            btnEdit.Name = "btnEdit";
+            btnEdit.Size = new Size(39, 24);
+            btnEdit.Text = "Edit";
+            btnEdit.Click += btnEdit_Click;
+            // 
+            // btnDelete
+            // 
+            btnDelete.DisplayStyle = ToolStripItemDisplayStyle.Text;
+            btnDelete.ImageTransparentColor = Color.Magenta;
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(57, 24);
+            btnDelete.Text = "Delete";
+            btnDelete.Click += btnDelete_Click;
+            // 
             // frmProductsGridView
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(grdViewPrds);
+            Controls.Add(toolStrip1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "frmProductsGridView";
@@ -98,6 +141,8 @@
             ((System.ComponentModel.ISupportInitialize)grdViewPrds).EndInit();
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
+            toolStrip1.ResumeLayout(false);
+            toolStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -110,5 +155,9 @@
         private ToolStripMenuItem loadToolStripMenuItem;
         private ToolStripSeparator toolStripMenuItem1;
         private ToolStripMenuItem saveToolStripMenuItem;
+        private ToolStrip toolStrip1;
+        private ToolStripButton btnAdd;
+        private ToolStripButton btnEdit;
+        private ToolStripButton btnDelete;
     }
 }

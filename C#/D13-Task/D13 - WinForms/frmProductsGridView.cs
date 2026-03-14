@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -70,8 +70,74 @@ namespace D13___WinForms
                 Trace.WriteLine(row.RowState);
             }
             grdViewPrds.EndEdit();
-            int R= sqlDaPrds.Update(dtProducts); ///Commit Changes into Database From dtProducts
+            int R = sqlDaPrds.Update(dtProducts); ///Commit Changes into Database From dtProducts
             Trace.WriteLine($"{R} Rows Affected");
         }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            frmAddTitle addForm = new frmAddTitle();
+            if (addForm.ShowDialog() == DialogResult.OK)
+            {
+                DataRow newRow = dtProducts.NewRow();
+                newRow["title_id"] = addForm.TitleId;
+                newRow["title"] = addForm.TitleName;
+                newRow["type"] = addForm.TitleType;
+                dtProducts.Rows.Add(newRow);
+
+                try
+                {
+                    sqlDaPrds.Update(dtProducts);
+                    MessageBox.Show("Title added successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Error adding title: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        private void btnEdit_Click(object sender, EventArgs e)
+         {
+             if (grdViewPrds.CurrentRow != null)
+             {
+                 string selectedTitleId = grdViewPrds.CurrentRow.Cells["title_id"].Value.ToString();
+                 frmProductsDetailedView editForm = new frmProductsDetailedView(selectedTitleId);
+                 editForm.ShowDialog();
+                 
+                 // Refresh the grid data after editing
+                 dtProducts.Clear();
+                 sqlDaPrds.Fill(dtProducts);
+             }
+            else
+            {
+                MessageBox.Show("Please select a title to edit.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+         {
+             if (grdViewPrds.CurrentRow != null)
+             {
+                 if (MessageBox.Show("Are you sure you want to delete this title?", "Confirm Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                 {
+                     DataRowView drv = (DataRowView)grdViewPrds.CurrentRow.DataBoundItem;
+                     drv.Row.Delete();
+                     try
+                     {
+                         sqlDaPrds.Update(dtProducts);
+                     }
+                     catch (Exception ex)
+                     {
+                         MessageBox.Show($"Error deleting title: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                         dtProducts.RejectChanges();
+                     }
+                 }
+             }
+             else
+             {
+                 MessageBox.Show("Please select a title to delete.", "Selection Required", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+             }
+         }
     }
 }

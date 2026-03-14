@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsgridview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\frmproductsdetailedview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|d:\\mohamed khaled\\iti\\c#\\day13\\task\\d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1881DD77-5D17-51E6-246B-5F14EC7EE2C2}|D13 - WinForms\\D13 - WinForms.csproj|solutionrelative:d13 - winforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "frmProductsDetailedView.cs [Design]",
               "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsDetailedView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T20:56:37.438Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -71,59 +70,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmDataReader.cs",
+              "DocumentIndex": 3,
+              "Title": "frmDataReader.cs [Design]",
               "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmDataReader.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmDataReader.cs",
-              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmDataReader.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmDataReader.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAvwFIAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmDataReader.cs [Design]",
+              "RelativeToolTip": "D13 - WinForms\\frmDataReader.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:37:19.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T14:22:03.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\Program.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\Program.cs",
               "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\Program.cs",
               "RelativeToolTip": "D13 - WinForms\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T22:11:33.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "frmProductsGridView.cs",
               "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.cs",
               "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.cs",
               "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.cs",
               "RelativeToolTip": "D13 - WinForms\\frmProductsGridView.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAArwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAWwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:00:05.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T22:00:05.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmProductsDetailedView.cs",
-              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsDetailedView.cs",
-              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsDetailedView.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsDetailedView.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA5wC0AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmProductsGridView.Designer.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.Designer.cs",
+              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.Designer.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.Designer.cs",
+              "RelativeToolTip": "D13 - WinForms\\frmProductsGridView.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T20:57:28.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T21:42:20.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "frmDataReader.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmDataReader.cs",
+              "RelativeDocumentMoniker": "D13 - WinForms\\frmDataReader.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmDataReader.cs",
+              "RelativeToolTip": "D13 - WinForms\\frmDataReader.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:37:19.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\App.config",
               "RelativeDocumentMoniker": "D13 - WinForms\\App.config",
@@ -131,21 +138,7 @@
               "RelativeToolTip": "D13 - WinForms\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-10T21:42:38.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmProductsGridView.Designer.cs",
-              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.Designer.cs",
-              "RelativeDocumentMoniker": "D13 - WinForms\\frmProductsGridView.Designer.cs",
-              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day13\\Task\\D13 - WinForms\\frmProductsGridView.Designer.cs",
-              "RelativeToolTip": "D13 - WinForms\\frmProductsGridView.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T21:42:20.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T21:42:38.363Z"
             }
           ]
         }
