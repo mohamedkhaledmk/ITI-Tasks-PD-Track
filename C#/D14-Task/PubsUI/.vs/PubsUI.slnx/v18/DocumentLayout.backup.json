@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|d:\\mohamed khaled\\iti\\c#\\day14\\task\\pubsui\\pubsui\\frmupdateprdprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|solutionrelative:pubsui\\frmupdateprdprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|d:\\mohamed khaled\\iti\\c#\\day14\\task\\pubsui\\pubsui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|solutionrelative:pubsui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|d:\\mohamed khaled\\iti\\c#\\day14\\task\\pubsui\\pubsui\\frmprdsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|solutionrelative:pubsui\\frmprdsgridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\mohamed khaled\\iti\\c#\\day14\\task\\pubsui\\bll\\entitymanagers\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\entitymanagers\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|d:\\mohamed khaled\\iti\\c#\\day14\\task\\pubsui\\pubsui\\frmupdateprdprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4B9D295-8412-F5F3-10FB-7E4E7CF21948}|PubsUI\\PubsUI.csproj|solutionrelative:pubsui\\frmupdateprdprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\BLL\\EntityManagers\\TitleManager.cs",
+              "RelativeDocumentMoniker": "BLL\\EntityManagers\\TitleManager.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\BLL\\EntityManagers\\TitleManager.cs",
+              "RelativeToolTip": "BLL\\EntityManagers\\TitleManager.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:12:23.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrdsGridView.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmPrdsGridView.cs",
+              "RelativeDocumentMoniker": "PubsUI\\frmPrdsGridView.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmPrdsGridView.cs",
+              "RelativeToolTip": "PubsUI\\frmPrdsGridView.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:14:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUpdatePrdPrice.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmUpdatePrdPrice.cs",
+              "RelativeDocumentMoniker": "PubsUI\\frmUpdatePrdPrice.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmUpdatePrdPrice.cs",
+              "RelativeToolTip": "PubsUI\\frmUpdatePrdPrice.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:00:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmUpdatePrdPrice.cs [Design]",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmUpdatePrdPrice.cs",
+              "RelativeDocumentMoniker": "PubsUI\\frmUpdatePrdPrice.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\frmUpdatePrdPrice.cs [Design]",
+              "RelativeToolTip": "PubsUI\\frmUpdatePrdPrice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:58:46.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\Program.cs",
+              "RelativeDocumentMoniker": "PubsUI\\Program.cs",
+              "ToolTip": "D:\\mohamed khaled\\ITI\\C#\\Day14\\Task\\PubsUI\\PubsUI\\Program.cs",
+              "RelativeToolTip": "PubsUI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:58:51.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.exe
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.deps.json
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.runtimeconfig.json
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\BLL.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\DAL.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\BLL.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\DAL.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.AssemblyReference.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmPrdsGridView.resources
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.GenerateResource.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.AssemblyInfoInputs.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.AssemblyInfo.cs
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.CoreCompileInputs.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWin.29B20417.Up2Date
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\refint\NorthWindUI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.genruntimeconfig.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\ref\NorthWindUI.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.dll.config
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmUpdatePrdPrice.resources
+C:\Users\iti\Desktop\SD46\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmPrdDetailedView.resources
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.exe
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.dll.config
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.deps.json
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.runtimeconfig.json
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\NorthWindUI.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\BLL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\BLL.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\bin\Debug\net10.0-windows\DAL.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.AssemblyReference.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmPrdDetailedView.resources
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmPrdsGridView.resources
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.frmUpdatePrdPrice.resources
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.GenerateResource.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.AssemblyInfoInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.AssemblyInfo.cs
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.csproj.CoreCompileInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWin.29B20417.Up2Date
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\refint\NorthWindUI.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\NorthWindUI.genruntimeconfig.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\NorthWindUI\obj\Debug\net10.0-windows\ref\NorthWindUI.dll

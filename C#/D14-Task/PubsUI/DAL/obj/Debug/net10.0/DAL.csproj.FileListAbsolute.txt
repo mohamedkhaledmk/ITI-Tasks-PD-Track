@@ -1,0 +1,36 @@
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.pdb
+C:\Users\iti\Desktop\SD46\NorthWindAPP\DAL\obj\Debug\net10.0\ref\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\bin\Debug\net10.0\DAL.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\DAL.pdb
+D:\mohamed khaled\ITI\C#\Day14\NorthWindAPP\DAL\obj\Debug\net10.0\ref\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\bin\Debug\net10.0\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\bin\Debug\net10.0\DAL.pdb
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\DAL.pdb
+D:\mohamed khaled\ITI\C#\Day14\Task\PubsUI\DAL\obj\Debug\net10.0\ref\DAL.dll
