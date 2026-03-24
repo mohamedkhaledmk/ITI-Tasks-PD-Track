@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Form</title>
+    <meta http-equiv="refresh" content="5" url="form.html" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1 class="center">
+      <b>
+        <u>Registration Form</u>
+      </b>
+    </h1>
+    <table>
+      <form action="https://formspree.io/register" target="_blank" method="get">
+        <tbody>
+          <tr>
+            <td>
+              <label for="firstName" accesskey="F"><u>F</u>irst Name</label>
+            </td>
+            <td>
+              <input
+                type="text"
+                placeholder="Enter your first name"
+                name="FirstName"
+                id="firstName"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="lastName" accesskey="L"><u>L</u>ast Name</label>
+            </td>
+            <td>
+              <input
+                placeholder="Enter your last name"
+                type="text"
+                name="LastName"
+                id="lastName"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="Email" accesskey="E"><u>E</u>mail</label>
+            </td>
+            <td>
+              <input
+                placeholder="Enter your email"
+                type="email"
+                name="email"
+                id="Email"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="pass" accesskey="P"><u>P</u>assword</label>
+            </td>
+            <td>
+              <input
+                placeholder="Enter your password"
+                type="password"
+                name="password"
+                id="pass"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="2">Gender</td>
+            <td>
+              <input
+                type="radio"
+                name="gender"
+                id="female"
+                value="female"
+              /><label for="female">Female</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="radio" name="gender" id="male" value="male" />
+              <label for="male">Male</label>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="cntry" accesskey="C"><u>C</u>ountry</label>
+            </td>
+            <td>
+              <select name="country" id="cntry">
+                <option value="">Select your Country</option>
+                <optgroup label="Africa">
+                  <option value="Egypt">Egypt</option>
+                  <option value="Sudan">Sudan</option>
+                  <option value="Libya">Libya</option>
+                  <option value="Tunisia">Tunisia</option>
+                  <option value="Morocco">Morocco</option>
+                </optgroup>
+                <optgroup label="Europe" disabled>
+                  <option value="Italy">Italy</option>
+                  <option value="Sweden">Sweden</option>
+                  <option value="Spain">Spain</option>
+                </optgroup>
+                <optgroup label="Asia">
+                  <option value="Palestine">Palestine</option>
+                  <option value="South Korea">South Korea</option>
+                  <option value="India">India</option>
+                </optgroup>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <label for="bth" accesskey="B"><u>B</u>irthday</label>
+            </td>
+            <td><input type="date" name="birthday" id="bth" /></td>
+          </tr>
+          <tr>
+            <td class="center" colspan="2"><u>Interests</u></td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <span class="m-auto"
+                ><input type="checkbox" name="sports" id="sp" />
+                <label for="sp">Sports</label></span
+              >
+              <span>
+                <input type="checkbox" name="Music" id="mu" />
+                <label for="mu">Music</label></span
+              >
+              <span>
+                <input type="checkbox" name="Fashion" id="fa" />
+                <label for="fa">Fashion</label></span
+              >
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <span>
+                <input type="checkbox" name="Reading" id="re" />
+                <label for="re">Reading</label></span
+              >
+              <span>
+                <input type="checkbox" name="Shopping" id="sh" />
+                <label for="sh">Shopping</label>
+              </span>
+              <span>
+                <input type="checkbox" name="Movies" id="mo" />
+                <label for="mo">Movies</label>
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td class="center" colspan="2">
+              <u><label for="textArea">Bio</label></u>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <textarea
+                cols="50"
+                rows="5"
+                name="textArea"
+                id="textArea"
+              ></textarea>
+            </td>
+          </tr>
+        </tbody>
+        <tfoot class="">
+          <tr class="m-auto">
+            <td class="center" colspan="2">
+              <input class="m-4" type="submit" value="Register" />
+              <input class="m-4" type="reset" value="Reset" />
+            </td>
+          </tr>
+        </tfoot>
+      </form>
+    </table>
+  </body>
+</html>

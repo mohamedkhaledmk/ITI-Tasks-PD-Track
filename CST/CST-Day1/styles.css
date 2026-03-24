@@ -1,0 +1,27 @@
+.Headings {
+  text-align: center;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+}
+.red {
+  color: red;
+}
+.small {
+  font-size: 12px;
+}
+.font {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.center {
+  text-align: center;
+  padding-top: 25vh;
+  padding-bottom: 25vh;
+}
+.end {
+  text-align: end;
+}

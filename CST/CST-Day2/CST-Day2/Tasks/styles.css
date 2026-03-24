@@ -1,0 +1,60 @@
+.center {
+  text-align: center;
+}
+
+td {
+  border: 3px solid gray;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  /* why */
+  margin: auto;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  outline: 1px solid gray;
+}
+textarea {
+  resize: none;
+}
+.no-border {
+  border-left: none;
+  border-right: none;
+}
+.m-auto {
+  margin: auto;
+}
+.m-4 {
+  margin-inline: 16px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding: 8px;
+}
+
+td span {
+  margin-inline: 2rem !important;
+}
+
+.border {
+  border: 3px solid rgb(25, 209, 182);
+}
+.Red {
+  color: red;
+  font-weight: bold;
+}
+.my {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.btn {
+  color: brown;
+  padding: 6px 12px;
+}
+body form {
+  width: 50%;
+  margin: auto;
+}
